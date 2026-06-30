@@ -47,7 +47,7 @@ Operations → Data → AI Systems → Reliable Decision-Making
 
 ### AI, agents and automation
 
-![LLMs](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=LLMsi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LanGraph](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![trigger.dev](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
