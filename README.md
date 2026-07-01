@@ -1,8 +1,20 @@
-<p align="center">
-  <img src="./assets/github-profile-banner.svg" alt="Gabriel Vila Bracho — AI Systems Builder" width="100%" />
-</p>
+<div align="center">
+<pre>
+ ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗
+██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║
+██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║
+██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║
+╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
 
-<h1 align="center">Gabriel Vila Bracho</h1>
+██╗   ██╗██╗██╗      █████╗     ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗ ██████╗
+██║   ██║██║██║     ██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██╔═══██╗
+██║   ██║██║██║     ███████║    ██████╔╝██████╔╝███████║██║     ███████║██║   ██║
+╚██╗ ██╔╝██║██║     ██╔══██║    ██╔══██╗██╔══██╗██╔══██║██║     ██╔══██║██║   ██║
+ ╚████╔╝ ██║███████╗██║  ██║    ██████╔╝██║  ██║██║  ██║╚██████╗██║  ██║╚██████╔╝
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝
+</pre>
+</div>
 
 <p align="center">
   <strong>AI Systems Builder · Business Intelligence · Operations · Clean Architecture</strong>
@@ -124,10 +136,6 @@ Operations → Data → AI Systems → Reliable Decision-Making
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielvilabracho&theme=gruvbox&hide_border=false" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielvilabracho&bg_color=0d1117&color=c9d1d9&line=39d353&point=7ee787&area=true&hide_border=true" alt="GitHub contribution graph" />
 </p>
 
 ---
