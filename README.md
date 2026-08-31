@@ -29,7 +29,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="Hi" /> About me
+## About me
 
 I build trusted AI and data systems for complex business operations.
 
